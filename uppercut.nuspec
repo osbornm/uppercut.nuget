@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?> 
 <package> 
   <metadata> 
-    <id>uppercut</id> 
+    <id>uppercutjs</id> 
     <version>0.0.1</version>
     <authors>Matthew Osborn</authors>
     <description>knockoutjs helper library</description> 
     <language>en-US</language>
     <licenseUrl>http://www.opensource.org/licenses/mit-license.php</licenseUrl>
     <projectUrl>https://github.com/osbornm/uppercut</projectUrl>
-    <tags>knockout knockoutjs</tags>
+    <tags>knockout knockoutjs uppercut uppercutjs</tags>
     <dependencies>
       <dependency id="knockoutjs" version="3.0.0" />
     </dependencies>
